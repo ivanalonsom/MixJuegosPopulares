@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MixJuegosPopulares:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MixJuegosPopulares_jar</output-path>
+    <root id="archive" name="MixJuegosPopulares.jar">
+      <element id="module-output" name="MixJuegosPopulares" />
+    </root>
+  </artifact>
+</component>
